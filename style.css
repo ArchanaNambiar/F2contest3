@@ -30,7 +30,7 @@ body{
 }
 
 .active-menu{
-    background-color: rgb(66, 115, 199);
+    background-color: lightskyblue;
     border-radius: 25px;
     padding: 7px 15px;
 }
